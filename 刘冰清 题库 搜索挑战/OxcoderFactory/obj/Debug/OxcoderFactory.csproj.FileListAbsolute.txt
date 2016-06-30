@@ -1,0 +1,15 @@
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\OxcoderFactory.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\OxcoderFactory.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\Model.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\OxcoderDAL.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\OxcoderIDAL.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\OxcoderIFactory.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\Common.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\Model.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\OxcoderDAL.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\OxcoderIDAL.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\OxcoderIFactory.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\bin\Debug\Common.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\obj\Debug\OxcoderFactory.csprojResolveAssemblyReference.cache
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\obj\Debug\OxcoderFactory.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderFactory\obj\Debug\OxcoderFactory.pdb
