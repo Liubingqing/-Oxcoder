@@ -1,0 +1,11 @@
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderDAL\bin\Debug\OxcoderDAL.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderDAL\bin\Debug\OxcoderDAL.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderDAL\bin\Debug\Common.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderDAL\bin\Debug\Model.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderDAL\bin\Debug\OxcoderIDAL.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderDAL\bin\Debug\Common.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderDAL\bin\Debug\Model.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderDAL\bin\Debug\OxcoderIDAL.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderDAL\obj\Debug\OxcoderDAL.csprojResolveAssemblyReference.cache
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderDAL\obj\Debug\OxcoderDAL.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderDAL\obj\Debug\OxcoderDAL.pdb

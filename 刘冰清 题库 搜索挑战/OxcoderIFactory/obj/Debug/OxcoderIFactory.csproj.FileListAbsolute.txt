@@ -1,0 +1,9 @@
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderIFactory\bin\Debug\OxcoderIFactory.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderIFactory\bin\Debug\OxcoderIFactory.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderIFactory\bin\Debug\OxcoderIDAL.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderIFactory\bin\Debug\Model.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderIFactory\bin\Debug\OxcoderIDAL.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderIFactory\bin\Debug\Model.pdb
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderIFactory\obj\Debug\OxcoderIFactory.csprojResolveAssemblyReference.cache
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderIFactory\obj\Debug\OxcoderIFactory.dll
+G:\Users\xugege\documents\visual studio 2013\Projects\Web-master\OxcoderIFactory\obj\Debug\OxcoderIFactory.pdb
